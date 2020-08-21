@@ -22,7 +22,7 @@ For a local installation, first git clone this repository. Then follow these ins
 pip install .
 ```
 
-To install from [pypi](#):
+To install from [pypi](https://pypi.org/):
 
 ```
 pip install -U project_name
