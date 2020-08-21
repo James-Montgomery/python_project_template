@@ -82,25 +82,10 @@ Please use pytest as your testing suite. You code should have >= 80% coverage.
 
 ### Updating the Docs
 
-<!--
-sphinx-quickstart --ext-autodoc
-# comment conf.py file
-# add docs/.nojekyll file
-# update build dir in docs/Makefile
-# update static dir in docs/conf.py
-# create dummy docs/index.html
--->
-
 Updating the documentation is simple. First, let auto-docs check for updates to the package structure.
 
 ```
 cd docs
-sphinx-apidoc -o . ../project_name/
-```
-
-Finally, rebuild the html files.
-
-```
 make html
 ```
 
