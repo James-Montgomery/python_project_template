@@ -4,6 +4,8 @@ Instructions for how to use this repository template. I assume users of this
 template are already familiar with python and Github. The intent of this
 template is to save time, not teach.
 
+## Instructions
+
 #### Step One - Create New  Repository
 
 Create a new repository using these template as the base. Follow instructions
