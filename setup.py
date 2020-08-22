@@ -15,6 +15,7 @@ import versioneer
 # git tag v0.0.01 # update the tag to something, e.g. v0.0.01
 # git push origin --tags # push update to branch
 
+# conda activate python_env
 # python3 -m pip install --user --upgrade setuptools wheel
 # rm -rf build && rm -rf dist && rm -rf *.info
 # python3 setup.py sdist bdist_wheel
