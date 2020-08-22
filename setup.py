@@ -38,7 +38,7 @@ def setup_package():
     """
 
     setup(
-        name="Package",
+        name="project_name",
         packages=["project_name"],
         version=versioneer.get_version(),
 
