@@ -34,6 +34,7 @@ Places to update name:
 4. Update names in `./docs/conf.py`
 5. Update names in `./README.md`
 6. Update names in `./LICENSE.md`
+7. Update names in `./pytest.ini`
 
 #### Step Three - Dependencies
 
