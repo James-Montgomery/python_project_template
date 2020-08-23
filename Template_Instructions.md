@@ -32,6 +32,7 @@ Places to update name:
 3. Update names in `setup.cfg`
 4. Update names in `./docs/index.rst`
 4. Update names in `./docs/conf.py`
+4. Update names in `./docs/Makefile`
 5. Update names in `./README.md`
 6. Update names in `./LICENSE.md`
 7. Update names in `./pytest.ini`
