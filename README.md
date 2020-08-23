@@ -58,10 +58,10 @@ pytest
 
 ### Running the style tests
 
-Having neat and legible code is important. Having documentation is also important. We use pylint as our style guide framework. Many of our naming conventions follow directly from the literary sources they come from. This makes it easier to read the mathematical equations and see how they translate into the code. This sometimes forces us to break pep8 conventions for naming.
+Having neat and legible code is important. Having documentation is also important. We use pylint as our style guide framework. Many of our naming conventions follow directly from the literary sources they come from. This makes it easier to read the mathematical equations and see how they translate into the code. This sometimes forces us to break pep8 conventions for naming. Linting presets are defined in `pylintrc`.
 
 ```
-pylint project_name --disable=invalid-name
+pylint project_name
 ```
 
 ## Contributor's Guide
