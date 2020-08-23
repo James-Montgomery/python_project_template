@@ -111,3 +111,4 @@ and Pycharm
 * We highly recommend assing a description, website url, and topics to your project
 Github repository to make it easy to find for users and contributors
 * We highly recommend making your package available for use through pypi  
+* When writing your tests, use pytest fixtures for reusable test setup steps
