@@ -112,4 +112,7 @@ and Pycharm
 * We highly recommend assing a description, website url, and topics to your project
 Github repository to make it easy to find for users and contributors
 * We highly recommend making your package available for use through pypi  
-* When writing your tests, use pytest fixtures for reusable test setup steps
+* When writing your tests
+    * use pytest fixtures for reusable test setup steps
+    * Use pytest marker expressions to allow users to easily skip long running integration tests
+    * Use pytest parametrize marker to shorten tests for argument combinations
