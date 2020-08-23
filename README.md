@@ -53,7 +53,7 @@ To install the project  with test dependencies see the install section.
 We use the pytest framework for unit testing.
 
 ```
-pytest -vvl -s --cov project_name --disable-pytest-warnings
+pytest -vvl -s -n 4 --cov project_name --disable-pytest-warnings
 ```
 
 ### Running the style tests
