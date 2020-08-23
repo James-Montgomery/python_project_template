@@ -50,10 +50,10 @@ To install the project  with test dependencies see the install section.
 
 ### Running the unit tests
 
-We use the pytest framework for unit testing.
+We use the pytest framework for unit testing. Test preset args are defined in `pytest.ini`.
 
 ```
-pytest -vvl -s -n 4 --cov project_name --disable-pytest-warnings
+pytest
 ```
 
 ### Running the style tests
